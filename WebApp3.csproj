@@ -67,18 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HTML\Calculator.html" />
     <Content Include="HTML\editor.js" />
-    <Content Include="HTML\File parser.html" />
     <Content Include="HTML\Filesaver.js" />
     <Content Include="HTML\GPX editor 4.html" />
-    <Content Include="HTML\GPX editor 3.html" />
-    <Content Include="HTML\GPX editor 2.html" />
-    <Content Include="HTML\GPX editor.html" />
-    <Content Include="HTML\FileSave WRK.html" />
-    <Content Include="HTML\Kit.js" />
-    <Content Include="HTML\Openfile.html" />
-    <Content Include="HTML\polylineEditor.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
